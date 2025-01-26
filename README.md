@@ -1,6 +1,16 @@
 # LinuxComandos
 
+* sudo apt update
+
+para optener mas informacion del sistema en linea de comandos
+
+* sudo apt install screenfetch
+
+* screenfetch
+
 * pwd -> print working Directory 
+
+* whoami -> nombre del usuario
 
 * ls -> listar todos los directorios y archivos
 
@@ -38,6 +48,20 @@ comando touch
 
 touch archivo.txt
 
+Escribir algun texto desde la interfase de usuario
+
+cat archivo.txt
+
+wc archivo.txt nos indica la cantidad de linea, palabras y bits que tiene
+
+echo curso de sistemas operativos >> archivo.txt
+
+cat archivo.txt
+
+para ver el contenido y editar
+
+nano archivo.txt
+vim archivo.txt
 ls -al
 
 solo ver informacion de archivo.txt
